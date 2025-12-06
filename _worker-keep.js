@@ -1,5 +1,5 @@
 // 环境变量配置(必填)
-let email = "ufsoftlearner@gmail.com";      // SAP登录邮箱,直接填写或设置环境变量，变量名：EMAIL
+let email = "goacross2020@gmail.com";      // SAP登录邮箱,直接填写或设置环境变量，变量名：EMAIL
 let password = "Frog2024-1";   // SAP登录密码,直接填写或设置环境变量，变量名：PASSWORD
 
 // 离线重启通知 Telegram配置(可选)
